@@ -1,0 +1,2 @@
+time taken to execute the code with computational graph is  9.485375 seconds and 
+time taken to execute the code without computational graph is 17.21883 seconds
