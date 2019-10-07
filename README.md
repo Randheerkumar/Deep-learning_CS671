@@ -23,6 +23,3 @@
    3. Core Point Detection in Fingerprints
    
 
-
-# CS671_Deep-learning
-# Deep-learning_CS671
