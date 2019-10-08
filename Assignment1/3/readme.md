@@ -1,12 +1,12 @@
 ## for running 
 	python main.py
 
-##required library :
+## required library :
 
-	#tensorflow
-	#numpy
-	#matplotlib
-	#keras
+	tensorflow
+	numpy
+	matplotlib
+	keras
 
 
 ## layer.mylayer
