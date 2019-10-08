@@ -48,18 +48,12 @@ python3 question1.py
 
 
 tensorflow 1.11.0
+
         tensorboard 1.11.0	
         numpy
         math
-        timeit
+        
 
-python3 question2_with_graph.py
-        python3 question2_without_graph.py
-
-tensorflow
-numpy
-matplotlib
-keras
 
 
 
